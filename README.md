@@ -1,6 +1,5 @@
 # Image-Classification
-Using amazon sagemaker
-
+Using Amazon Sagemaker
 
 In this project, we trained and deploy an image classifier using Amazon Sagemaker. We used the image classification algorithm from Sagemaker to create, train and deploy a model that isbe able to classify 37 breeds of dogs and cats from the popular IIIT-Oxford Pets Dataset.<br>
 
